@@ -1,0 +1,22 @@
+body {
+    color: rgb(131, 95, 22);
+    front-family: "Helvetica", "Arial";
+    background-color: lightblue;
+}
+
+section#main {
+    width: 500px:
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+strong {
+    color: #f43e5c;
+}
+
+em {
+    color: #496303;
+}
